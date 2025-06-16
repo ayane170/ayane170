@@ -68,8 +68,8 @@ I'm a passionate and ambitious **junior software developer** based in Belgium �
 
 ## 📫 Let's Connect!
 
-- 📩 Email: aya@example.com *(replace with your real one)*
-- 💼 LinkedIn: [linkedin.com/in/aya](https://linkedin.com/in/aya)
+- 📩 Email: ayanemri170@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/aya](www.linkedin.com/in/aya-nemri-59442421b)
 - 🌐 Portfolio (soon): Coming Summer 2025
 
 ---
