@@ -62,10 +62,9 @@ I'm a passionate and ambitious **junior software developer** based in Belgium �
 
 ## 📫 Let's Connect!
 
-- 📩 Email: ayanemri170@gmail.com
+- 📩 Email: 
 - 💼 LinkedIn: [linkedin.com/in/aya](www.linkedin.com/in/aya-nemri-59442421b)
 - 🌐 Portfolio (soon): Coming Summer 2025
 
 ---
 
-✨ *"Design your life. Build your code. Inspire others."*
